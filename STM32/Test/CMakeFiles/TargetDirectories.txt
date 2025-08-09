@@ -1,0 +1,6 @@
+/Users/magi-nerv/Space Specifically/Cesium/microcore/STM32/Test/CMakeFiles/Test.dir
+/Users/magi-nerv/Space Specifically/Cesium/microcore/STM32/Test/CMakeFiles/edit_cache.dir
+/Users/magi-nerv/Space Specifically/Cesium/microcore/STM32/Test/CMakeFiles/rebuild_cache.dir
+/Users/magi-nerv/Space Specifically/Cesium/microcore/STM32/Test/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/Users/magi-nerv/Space Specifically/Cesium/microcore/STM32/Test/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/Users/magi-nerv/Space Specifically/Cesium/microcore/STM32/Test/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
